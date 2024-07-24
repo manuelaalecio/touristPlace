@@ -107,3 +107,12 @@ hr {
 hr + p {
   text-align: center;
 }
+
+footer {
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
