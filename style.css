@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #333333;
+}
+
+body {
+  background-color: #f5f4f0;
+}
+
+#container {
+  width: 1120px;
+  margin: 88px auto 65px;
+}
+
+.headline {
+  color: #e1624f;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-style: italic;
+}
+
+.history {
+  color: #0c51a7;
+}
+
+.couples {
+  color: #591b98;
+}
+
+.families {
+  color: #e5245e;
+}
+
+.budgets {
+  color: #e95e10;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h1,
+h2,
+h3 {
+  color: #1b1b1b;
+}
